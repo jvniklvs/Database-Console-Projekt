@@ -1,0 +1,7 @@
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\bin\Debug\BibliothekDatenbank.exe.config
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\bin\Debug\BibliothekDatenbank.exe
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\bin\Debug\BibliothekDatenbank.pdb
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\obj\Debug\BibliothekDatenbank.csproj.AssemblyReference.cache
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\obj\Debug\BibliothekDatenbank.csproj.CoreCompileInputs.cache
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\obj\Debug\BibliothekDatenbank.exe
+C:\codestuff\BibliothekDatenbank\BibliothekDatenbank\obj\Debug\BibliothekDatenbank.pdb

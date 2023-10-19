@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bücher>
+  <Buch>
+    <ISBN>978-3-401-60704-7</ISBN>
+    <Buchname>Today I’ll Talk to Him</Buchname>
+    <Preis>16,50</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-423-26377-1</ISBN>
+    <Buchname>Steckerlfischfiasko</Buchname>
+    <Preis>18,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-423-28383-0</ISBN>
+    <Buchname>Iron Flame – Flammengeküsst</Buchname>
+    <Preis>32,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-423-53164-1</ISBN>
+    <Buchname>Strafgesetzbuch</Buchname>
+    <Preis>11,90</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-423-53216-7</ISBN>
+    <Buchname>Basistexte Öffentliches Recht</Buchname>
+    <Preis>19,90</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-426-28158-1</ISBN>
+    <Buchname>Die Einladung</Buchname>
+    <Preis>24,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-498-00317-3</ISBN>
+    <Buchname>Echtzeitalter</Buchname>
+    <Preis>24,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-551-30468-1</ISBN>
+    <Buchname>Ravenhall Academy 2</Buchname>
+    <Preis>15,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-7513-0007-0</ISBN>
+    <Buchname>Tintenwelt 4. Die Farbe der Rache</Buchname>
+    <Preis>23,00</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-95818-717-7</ISBN>
+    <Buchname>Two Lives to Rise</Buchname>
+    <Preis>14,99</Preis>
+  </Buch>
+  <Buch>
+    <ISBN>978-3-95818-717-8</ISBN>
+    <Buchname>Test</Buchname>
+    <Preis>22,00</Preis>
+  </Buch>
+</Bücher>
